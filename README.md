@@ -1,5 +1,6 @@
 # ETL-pipeline-using-Python-AND-Postgres
 <b>Project Description </b>
+
 Project that I followed on an online platform in their virtual environment  will need to define fact and dimension tables for a star schema for a particular analytic focus, and write an ETL pipeline that transfers data from files in two local directories into these tables in Postgres using Python and SQL.
 Schema for Song Play Analysis
 <b>Project Description </b>
