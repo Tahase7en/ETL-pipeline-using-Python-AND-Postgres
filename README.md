@@ -7,7 +7,6 @@ Schema for Song Play Analysis
 <b>Schema for Song Play Analysis</b>
 
 <b>Fact Table</b>
-
 <b> songplays </b> records in log data associated with song plays
 
 <b>Dimension Tables</b>
