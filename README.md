@@ -22,6 +22,6 @@ Schema for Song Play Analysis
 
 <b>Project Design</b>
 
-Database Design is very optimized because with a ew number of tables and doing specific join, we can get the most information and do analysis
+Database Design is very optimized because with a few number of tables and doing specific join, we can get the most information and do analysis
 
 ETL Design is also simplified have to read json files and parse accordingly to store the tables into specific columns and proper formatting
