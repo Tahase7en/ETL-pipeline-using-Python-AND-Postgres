@@ -1,22 +1,26 @@
 # ETL-pipeline-using-Python-AND-Postgres
+b>Project Description </b>
 Project that I followed on an online platform in their virtual environment  will need to define fact and dimension tables for a star schema for a particular analytic focus, and write an ETL pipeline that transfers data from files in two local directories into these tables in Postgres using Python and SQL.
 Schema for Song Play Analysis
+<b>Project Description </b>
 
-Fact Table
+<b>Schema for Song Play Analysis</b>
 
-songplays records in log data associated with song plays
+<b>Fact Table</b>
 
-Dimension Tables
+<b> songplays </b> records in log data associated with song plays
 
-users in the app
+<b>Dimension Tables</b>
 
-songs in music database
+<b> users </b> in the app
 
-artists in music database
+<b> songs </b> in music database
 
-time: timestamps of records in songplays broken down into specific units
+<b> artists </b> in music database
 
-Project Design
+<b> time: </b> timestamps of records in songplays broken down into specific units
+
+<b>Project Design</b>
 
 Database Design is very optimized because with a ew number of tables and doing specific join, we can get the most information and do analysis
 
